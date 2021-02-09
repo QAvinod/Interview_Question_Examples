@@ -9,23 +9,23 @@ def join_list_str():
     b = ''
     for i in a:
         b += i
+    print(b)
 
     li = b.split(' ')
-    print(''.join(str(b)))
     print(li)
 
 
 def join_list_int():
     a = [1, 2, 3]
     b = ''
-    print(''.join(a))
+    print(' '.join(a))
 
 
 def example_join_string():
     a = '123'
     b = ''
     for i in a:
-        if i in ['1', '2']:
+        if i in ['1', '2', '3']:
             b += i
             b += '4'
         else:
@@ -34,7 +34,7 @@ def example_join_string():
 
 
 if __name__ == '__main__':
-    join_string()
+    # join_string()
     join_list_str()
     # join_list_int()
-    example_join_string()
+    # example_join_string()

@@ -1,5 +1,4 @@
 import time
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
@@ -43,6 +42,7 @@ def switch_js_alert():
     print(alert.text)
     time.sleep(2)
     alert.accept()
+    # alert.dismiss()
     time.sleep(2)
     driver.close()
 

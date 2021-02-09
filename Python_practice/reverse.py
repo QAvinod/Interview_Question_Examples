@@ -65,7 +65,7 @@ def string_index_change_reverse():
 
 
 if __name__ == '__main__':
-    reverse_str()
+    # reverse_str()
     half_str_reverse()
     half_reverse_with_list()
-    string_index_change_reverse()
+    # string_index_change_reverse()

@@ -47,6 +47,7 @@ def real_example_behind_replace_2():
     for i in lists:
         for j in i:
             list1.append(j)
+            print(list1)
     for v in list1:
         if v == 'e':
             v = 'V'
@@ -54,6 +55,7 @@ def real_example_behind_replace_2():
         else:
             list2.append(v)
 
+    print(list2)
     print(''.join(list2))
     make_list = ''.join(list2)
     li = list(make_list.split(" "))
@@ -73,10 +75,10 @@ def replace_int_value():
 
 
 if __name__ == '__main__':
-    # replace_remove_letter()
+    replace_remove_letter()
     # replace_with_letter()
     # replace_with_index_word()
     # real_example_behind_replace()
-    # real_example_behind_replace_1()
-    real_example_behind_replace_2()
+    real_example_behind_replace_1()
+    # real_example_behind_replace_2()
     # replace_int_value()
