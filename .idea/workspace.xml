@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e20f0ef-8bec-4551-9442-1cab83bef1fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_practice/overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/override_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/override_class_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/private_constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/private_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/public_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/vinod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_pratice/dropdown_jquery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_pratice/dropdown_select.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_pratice/ruff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_pratice/InterviewQuestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_pratice/ruff2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_practice/join.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_practice/join.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_practice/replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_practice/replace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_practice/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_practice/reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_pratice/switch_to_alert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_pratice/switch_to_alert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_practice/vinod.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_practice/vinod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_pratice/dropdown_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_pratice/dropdown_select.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +46,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.switch_to_alert">
+  <component name="RunManager" selected="Python.ruff2">
+    <configuration name="ascending_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Interview_Question_Examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_practice/ascending_order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="join" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Question_Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_practice/join.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="override_class_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Interview_Question_Examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_practice/override_class_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,49 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Interview_Question_Examples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_practice/reverse.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="strip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Interview_Question_Examples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_practice/strip.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="switch_to_alert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ruff2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Interview_Question_Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_pratice/switch_to_alert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_pratice/ruff2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,10 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.switch_to_alert" />
-        <item itemvalue="Python.reverse" />
-        <item itemvalue="Python.strip" />
+        <item itemvalue="Python.ruff2" />
         <item itemvalue="Python.replace" />
+        <item itemvalue="Python.ascending_order" />
+        <item itemvalue="Python.override_class_method" />
         <item itemvalue="Python.join" />
       </list>
     </recent_temporary>
@@ -181,21 +172,5 @@
       <updated>1611114613488</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Selenium_pratice/action_chain_mosue_hover.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Selenium_pratice/dropdown_select.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

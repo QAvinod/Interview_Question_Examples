@@ -24,14 +24,13 @@ def select_values_from_dropdown(dropDownOptionsList, value):
             break
 
 
-indus_options = driver.find_elements(By.XPATH, '//select[@id="Form_submitForm_Industry"]/option')
+indus_options = driver.find_elements(By.XPATH, '//select[@name="Industry"]/option')
 
 select_values_from_dropdown(indus_options, 'Education')
-select_values_from_dropdown(indus_options, 'Travel')
+# select_values_from_dropdown(indus_options, 'Travel')
 
 country_options = driver.find_elements(By.XPATH, '//select[@id="Form_submitForm_Country"]/option')
 select_values_from_dropdown(country_options, 'India')
-
 
 
 # ele_indus = driver.find_element(By.ID, 'Form_submitForm_Industry')
