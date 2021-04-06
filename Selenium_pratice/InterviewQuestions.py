@@ -1,9 +1,4 @@
 """
-Testing
---------
-1. RTM /SDLC / STLC / Testplan / Defect life cycle
-2. E2E testing
-3. smoke /sanity / functional / regression testing
 
 selenium
 --------
@@ -34,5 +29,21 @@ Python
 SQL
 ---
 1. null field filter
+
+Testing
+--------
+1. RTM /SDLC / STLC / Testplan / Defect life cycle
+2. E2E testing
+        End to end testing (E2E testing) refers to a software testing method that
+        involves testing an application’s workflow from beginning to end. This method
+        basically aims to replicate real user scenarios so that the system can be validated
+        for integration and data integrity.
+
+3. smoke /sanity / functional / regression testing
+        Smoke Testing verifies the critical functionalities of the system
+        whereas Sanity Testing verifies the new functionality like bug fixes.
+
+        regression testing is needed, when a new feature is added to
+        the software application and for defect fixing as well as performance issue fixing.
 
 """
