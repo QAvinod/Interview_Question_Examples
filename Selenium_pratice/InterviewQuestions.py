@@ -2,16 +2,19 @@
 
 selenium
 --------
-1. what is the .get() and .navigate()
-2. types of wait
-3. With out jquery how you will Enter the Keys
-4. How to switch new tab
+1. what is the .get() and .navigate() - (answer: selenium version based and now - back / forward  is using)
+2. types of wait (implicit / Explicit / Fluent) - (answer: fluent - webdriver_wait i have written)
+3. With out jquery how you will Enter the Keys (answer: send_keys('OmSaiRam')
+4. How to switch new tab - (answer: self.driver.switch_to.new_window(),
+                                    self.driver.execute_script("window.open('');"))
 5. xpath types (answer: relevant(/) , absolute (//) path)
 6. webdriver is a tool ?
-7. How many ways to approach dropdown select.
-8. What is Synchronization? Handling Synchronization in Selenium WebDriver
+7. How many ways to approach dropdown select. (answer: ActionChains, web element)
+8. What is Synchronization? Handling Synchronization in Selenium WebDriver (answer: implicit / Explicit)
 9. How to handle browser pop-up
 10. How to handle window pop-up
+11. Selenium is ? (answer: Selenium is a framework)
+12 what are the packages that you created in selenium framework.
 
 Python
 ------
@@ -23,7 +26,10 @@ Python
 6. add function with parametrized call
 7. how will return value from function
 8. What is the template in API automation (answer: URL/HEADERS/BODY)
-9. HTTP Request Types
+
+API
+----
+1. HTTP Request Types
 
 
 SQL
