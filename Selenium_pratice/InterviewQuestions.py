@@ -42,7 +42,7 @@ SQL
 
 Testing
 --------
-1. RTM /SDLC / STLC / Testplan / Defect life cycle
+1. RTM / SDLC / STLC / Testplan / Test Strategy / Defect life cycle
 2. E2E testing
         End to end testing (E2E testing) refers to a software testing method that
         involves testing an application’s workflow from beginning to end. This method
@@ -57,7 +57,5 @@ Testing
         the software application and for defect fixing as well as performance issue fixing.
 
 """
-
-
 
 'https://www.seleniumeasy.com/selenium-tutorials/selenium-automation-framework-example'
